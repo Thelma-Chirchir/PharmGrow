@@ -1,2 +1,3 @@
 # Sales-tracker
-This system will help bussiness holders to track their sales
+This system will help bussiness holders to track their sales.
+
